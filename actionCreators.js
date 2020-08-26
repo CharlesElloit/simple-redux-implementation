@@ -1,3 +1,4 @@
+//Importing ActionTypes
 const {
   UPDATE_CONTACT,
   UPDATE_USER,
