@@ -33,7 +33,7 @@ There are three big pilar of Redux
 
 # The diagram for the redux architechure 
 
- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--m5BdPzhS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/riadAin.gif" />
+ <img style="width: 500px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--m5BdPzhS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://i.imgur.com/riadAin.gif" />
 
 # Store 
    A store is a container which is responsible for maintaining the state/data of our app,
