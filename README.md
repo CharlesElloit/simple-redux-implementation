@@ -99,5 +99,4 @@ If you want to learn more about redux head over to [redux docs](https://redux.js
 # How Redux Work
 
 Author: Charles Elloit
-Email: aciforcharles@gmail.com
 Twitter: @CharlesElloit
