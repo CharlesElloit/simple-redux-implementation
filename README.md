@@ -21,7 +21,7 @@ There are three big pilar of Redux
 --There is a single source of truth for the data.
    That basically means there is only one store that keeps track of our application data.
 
---The only way we can update the state is by an action that triggers a recomputation of the State.
+--The only way we can update the store is by an action that triggers a recomputation of the State.
 
 --Update are made using a pure functions,
    By pure i mean a function that takes arguments and will always return the same things for this arguments.
