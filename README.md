@@ -94,7 +94,7 @@ If you want to learn more about redux head over to [redux docs](https://redux.js
 
 1.First you should install all the dependencies needed, by running this comand `npm install` or short hand for that `npm i` in the root directory of the project.
 2.cd into the director [simple-redux-implementation], if you change the directory name then cd [directory name]()
-3.cd into the simple-readux then run this script `node test-store.js` or `node test-store` either one will work just fine.
+3.Then run this script `node test-store.js` or `node test-store` either one will work just fine.
 
 # How Redux Work
 
