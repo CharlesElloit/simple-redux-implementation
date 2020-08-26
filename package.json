@@ -1,0 +1,26 @@
+{
+  "name": "simple-redux",
+  "version": "1.0.0",
+  "description": "# To test this implementation First:",
+  "main": "Store.js",
+  "dependencies": {
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "jest": "^26.4.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "jest:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesElloit/simple-redux-implementation.git"
+  },
+  "author": "Charles Elloit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CharlesElloit/simple-redux-implementation/issues"
+  },
+  "homepage": "https://github.com/CharlesElloit/simple-redux-implementation#readme"
+}

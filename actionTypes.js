@@ -1,0 +1,10 @@
+///Action Type
+const UPDATE_USER = "UPDATE_USER";
+const UPDATE_CONTACT = "UPDATE_CONTACT";
+const UPDATE_PRODUCT = "UPDATE_PRODUCT";
+
+module.exports = {
+  UPDATE_CONTACT,
+  UPDATE_USER,
+  UPDATE_PRODUCT
+};
