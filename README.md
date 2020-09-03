@@ -96,7 +96,6 @@ If you want to learn more about redux head over to [redux docs](https://redux.js
 2.cd into the director [simple-redux-implementation], if you change the directory name then cd [directory name]()
 3.Then run this script `node test-store.js` or `node test-store` either one will work just fine.
 
-# How Redux Work
 
 Author: Charles Elloit
 Twitter: @CharlesElloit
