@@ -40,8 +40,8 @@ There are three big pilar of Redux
    which is a class with some method like getState() and dispatch() etc.
    --The store should receive two or more arguments in this example it only cares about
      reducer and initialState/preloadingState
-   [getState()] is a function which allow you to retrive data for the State,
-   [dispatch()] function is the only way that the store can be updated.
+   `getState()` is a function which allow you to retrive data for the State,
+   `dispatch()` function is the only way that the store can be updated.
    And last you can add listeners that get invoked when the state changes but this is not implemented in 
    this example.
 
@@ -61,23 +61,23 @@ There are three big pilar of Redux
 
    --Function that create actions are called action creators
 
-   checkout this link for more about actions [https://github.com/redux-utilities/flux-standard-action]
+   checkout this link for more about actions [https://github.com/redux-utilities/flux-standard-action]()
 
 
 ## Requirements  
 
---`node`
+--`node` <br>
 --`redux`
 
 ## If you don't have Node
 
 ## Node installation
 
-1.You should have node installed in your computer or your machine. If you don't have node installed head over to [www.node.org] and download the lastest stable version of node for your operating system.
+1.You should have node installed in your computer or your machine. If you don't have node installed head over to [www.node.org](nodejs.org) and download the lastest stable version of node for your operating system.
 After installing node, to check if it's installed successfully, so if your using mac OS open Terminal and if your using
 windows OS open command prompt and type this command `node -v` or `node --version` to see the version you're running. If it doesn't show up, that means there was a problem with your installation process. Simply try to reinstall it again.
 
-The important package which allows you to install the require dependencies is [npm] which is ship with node. So you don't have to worry about installing it sparately
+The important package which allows you to install the require dependencies is `npm` which is ship with node. So you don't have to worry about installing it sparately
 To check the version of npm type this command on your Terminal if your running mac OS and command prompt if your running windows `npm -v` or `npm --version`.
 
 
@@ -93,7 +93,7 @@ If you want to learn more about redux head over to [redux docs](https://redux.js
 # Finially to run this program
 
 1.First you should install all the dependencies needed, by running this comand `npm install` or short hand for that `npm i` in the root directory of the project.
-2.cd into the director [simple-redux-implementation], if you change the directory name then cd [directory name]()
+2.cd into the director `simple-redux-implementation`, if you change the directory name then cd `directory name`
 3.Then run this script `node test-store.js` or `node test-store` either one will work just fine.
 
 
